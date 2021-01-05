@@ -1,0 +1,22 @@
+#page-create-orphanage{
+  display: flex;
+  min-height: 100vh;
+}
+
+main{
+  flex: 1;
+}
+main .title{
+  margin-top: 40px;
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+
+  text-align: center;
+  color: #8FA7B3;
+}
+
+
+
